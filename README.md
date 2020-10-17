@@ -9,7 +9,7 @@ Features:
 
 Getting started:
 
-In order to use the program, you would have install the following in your terminal:
+In order to use the program, you would have to install the following in your terminal:
 
  - pip3 install playsound
  https://pypi.org/project/playsound/ - website for reference
